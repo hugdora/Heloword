@@ -1,2 +1,3 @@
-# Heloword
-application test
+# maven-project
+
+Simple Maven Project
